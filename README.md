@@ -7,9 +7,10 @@
 
 ## :pushpin: Utilizando o projeto
 
-- Clone o repositório;
-- Instale as dependências;
+- Realize o fork;
+- Clone o repositório para sua máquina;
 - Configure o banco de dados;
+- Faça as modificações necessárias;
 - Execute o servidor;
 - Teste o sistema com a ajuda de um software (ex.: Insomnia)!
 
