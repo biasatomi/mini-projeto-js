@@ -11,6 +11,7 @@
 - Clone o repositório para sua máquina;
 - Configure o banco de dados;
 - Faça as modificações necessárias;
+- Execute o servidor local;
 - Teste o sistema com a ajuda de um software (ex.: Insomnia)!
 
 ## :computer_mouse: Demonstrativo
