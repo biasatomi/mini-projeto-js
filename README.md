@@ -15,3 +15,5 @@
 - Teste o sistema com a ajuda de um software (ex.: Insomnia)!
 
 ## :computer_mouse: Demonstrativo
+https://github.com/biasatomi/mini-projeto-js/assets/138514991/493e824f-f3e5-4b0b-86c8-45c0f712e101
+
